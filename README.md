@@ -63,4 +63,4 @@ Para executar este projeto de ETL, siga os seguintes passos:
 
 O vídeo que demonstra a execução completa do projeto, desde a configuração à visualização dos resultados, pode ser acedido através do seguinte link:
 
-**[LINK PARA O VÍDEO]**
+**https://youtu.be/JCH7ZUKThTA**
