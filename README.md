@@ -27,13 +27,12 @@ A estrutura do projeto está organizada da seguinte forma:
   - "netflix_users_erros.csv": Dataset com os dados dos utilizadores, contendo erros para serem limpos e corrigidos pelo processo de ETL.
 
 - **/data/output/**: Contém exemplos dos ficheiros gerados pela execução bem-sucedida do Job.
-  - "netflix_atividade_enriquecida.csv": O ficheiro principal com os dados de atividade limpos e enriquecidos com os dados dos utilizadores.
+  - "streaming_users_netflix.csv": O ficheiro principal com os dados de streaming limpos e enriquecidos com os dados dos utilizadores.
   - "relatorio_por_subscricao.csv": O relatório agregado que resume as horas vistas e o número de utilizadores por tipo de subscrição.
   - "relatorio_por_subscricao.json": O mesmo relatório agregado, mas em formato JSON.
-  - "utilizadores_rejeitados.csv": Ficheiro com os registos de utilizadores que não passaram nas regras de validação iniciais (se tiveres implementado esta funcionalidade).
 
 - **/doc/**: Contém o relatório final do projeto em formato PDF.
-  - `22996_doc.pdf`: O documento com toda a teoria, diagramas e conclusões do trabalho.
+  - "22996_doc.pdf": O documento com toda a teoria, diagramas e conclusões do trabalho.
 
 ---
 
@@ -47,7 +46,7 @@ Para executar este projeto de ETL, siga os seguintes passos:
 
 2.  **Preparação:**
     - Garanta que a estrutura de pastas ("dataint", "data/input", etc.) é mantida.
-    - Coloque os ficheiros de input ("netflix_activity.csv", "netflix_users_erros.csv") na pasta "/data/input/".
+    - Coloque os ficheiros de input ("netflix_activity.csv", "netflix_users.csv") na pasta "/data/input/".
 
 3.  **Execução:**
     - Abra a aplicação Pentaho Data Integration (Spoon).
@@ -55,7 +54,7 @@ Para executar este projeto de ETL, siga os seguintes passos:
     - Com o Job aberto, clique no botão "Play" (Executar) na barra de ferramentas principal.
 
 4.  **Resultado Esperado:**
-    - O Job irá verificar a existência dos ficheiros de input, executar a transformação, e gerar os ficheiros de output na pasta `/data/output/`.
+    - O Job irá verificar a existência dos ficheiros de input, executar a transformação, e gerar os ficheiros de output na pasta "/data/output/".
     - No final, será gerado um log da execução e enviado um email de notificação (de sucesso ou de falha) para o endereço configurado.
 
 ---
