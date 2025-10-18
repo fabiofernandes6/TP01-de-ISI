@@ -1,0 +1,1 @@
+{"data":[{"Subscription_Type":"Premium","Total_Hours_Plan":335.75999999999965,"Num_Users_Plan":4,"AVG_Hours_Plan":0.21774319066147838}]}

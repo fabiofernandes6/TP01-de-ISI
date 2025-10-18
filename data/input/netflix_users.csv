@@ -1,0 +1,10 @@
+User_ID,Profile_Name,Real_Name,Age,Country,Subscription_Type,Watch_Time_Hours,Favorite_Genre,Last_Login
+1,User 0,Emma Miller,27,Portugal,Prremium,54.2,Drama,2025-10-10
+2,User 1,Alex Johnson,33,Spain,Basic,23.5,Comedy,2025-10-08
+3,User 2,Chris Davis,19,France,Satndar,18.4,Action,2025-09-30
+4,User 3,Jane Smith,42,Portugal,Premium,72.0,Thriller,2025-10-12
+5,User 4,Michael Jones,51,Germany,sabic,11.5,Documentary,2025-10-05
+6,User 5,Sarah Wilson,24,Italy,Standard,30.8,Romance,2025-09-27
+7,User 6,David Johnson,29,United Kingdom,Premium,65.1,Adventure,2025-10-13
+8,User 7,Emma Williams,38,Brazil,Premium,49.9,Drama,2025-10-09
+9,User 8,Alex Smith,46,USA,Basic,16.2,Comedy,2025-09-25

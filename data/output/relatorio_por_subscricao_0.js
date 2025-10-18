@@ -1,0 +1,1 @@
+{"data":[{"Subscription_Type":"Basic","Total_Hours_Plan":1946.729999999962,"Num_Users_Plan":3,"AVG_Hours_Plan":0.264501358695647}]}
