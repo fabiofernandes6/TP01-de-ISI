@@ -24,7 +24,7 @@ A estrutura do projeto está organizada da seguinte forma:
 
 - **/data/input/**: Contém os ficheiros de dados de origem necessários para a execução do processo.
   - "netflix_activity.csv": Dataset com a atividade de visualização.
-  - "netflix_users_erros.csv": Dataset com os dados dos utilizadores, contendo erros para serem limpos e corrigidos pelo processo de ETL.
+  - "netflix_users.csv": Dataset com os dados dos utilizadores, contendo erros para serem limpos e corrigidos pelo processo de ETL.
 
 - **/data/output/**: Contém exemplos dos ficheiros gerados pela execução bem-sucedida do Job.
   - "streaming_users_netflix.csv": O ficheiro principal com os dados de streaming limpos e enriquecidos com os dados dos utilizadores.
