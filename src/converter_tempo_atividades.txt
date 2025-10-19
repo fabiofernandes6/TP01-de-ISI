@@ -1,0 +1,11 @@
+function timeToHours(t) {
+  if (!t || t.trim() === "") return 0;
+  var parts = t.split(":");
+  if (parts.length < 3) return 0;
+  var h = parseFloat(parts[0]);
+  var m = parseFloat(parts[1]);
+  var s = parseFloat(parts[2]);
+  return h + (m / 60) + (s / 3600); 
+} 
+
+Duration_Hours = Math.round(Number(timeToHours(Duration)) * 100) / 100;

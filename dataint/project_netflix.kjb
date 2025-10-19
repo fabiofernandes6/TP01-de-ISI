@@ -304,8 +304,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>144</xloc>
-      <yloc>272</yloc>
+      <xloc>208</xloc>
+      <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -343,8 +343,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>224</yloc>
+      <xloc>704</xloc>
+      <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -365,8 +365,8 @@ Log guardado em: ${Internal.Job.Filename.Directory}
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>848</xloc>
-      <yloc>160</yloc>
+      <xloc>912</xloc>
+      <yloc>80</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -378,8 +378,8 @@ Log guardado em: ${Internal.Job.Filename.Directory}
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>288</xloc>
-      <yloc>272</yloc>
+      <xloc>352</xloc>
+      <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -393,8 +393,8 @@ Log guardado em: ${Internal.Job.Filename.Directory}
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>400</yloc>
+      <xloc>704</xloc>
+      <yloc>320</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -450,8 +450,8 @@ Sistema Automático de Relatórios ETL</comment>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>1136</xloc>
-      <yloc>160</yloc>
+      <xloc>1200</xloc>
+      <yloc>80</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -467,8 +467,8 @@ Erro ocorrido em: ${Internal.Job.Entry.Name}</logmessage>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>2</nr>
-      <xloc>848</xloc>
-      <yloc>288</yloc>
+      <xloc>912</xloc>
+      <yloc>208</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -488,8 +488,8 @@ Erro ocorrido em: ${Internal.Job.Entry.Name}</logmessage>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>992</xloc>
-      <yloc>160</yloc>
+      <xloc>1056</xloc>
+      <yloc>80</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -552,8 +552,8 @@ Sistema Automático de Alertas ETL</comment>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>1</nr>
-      <xloc>992</xloc>
-      <yloc>288</yloc>
+      <xloc>1056</xloc>
+      <yloc>208</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -616,8 +616,8 @@ Sistema Automático de Alertas ETL</comment>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>3</nr>
-      <xloc>848</xloc>
-      <yloc>400</yloc>
+      <xloc>912</xloc>
+      <yloc>320</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -629,8 +629,8 @@ Sistema Automático de Alertas ETL</comment>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>448</xloc>
-      <yloc>272</yloc>
+      <xloc>512</xloc>
+      <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
